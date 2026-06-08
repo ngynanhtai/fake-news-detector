@@ -83,3 +83,7 @@ Mỗi lần người dùng bấm 👍/👎:
 1. Hệ thống tính nhãn đúng (đảo ngược nếu 👎)
 2. Lưu mẫu mới vào `du_lieu_tin_tuc.csv`
 3. Tiến hành kích hoạt tiến trình Huấn luyện lại (Retrain) toàn bộ mô hình để cải thiện các phân tách kế tiếp mà không làm gián đoạn hệ thống
+
+## Các Tính Năng Nổi Bật
+- **Data Masking (Privacy):** Tự động ẩn số điện thoại, số tài khoản ngân hàng bằng Regex trước khi đưa vào AI phân tích.
+- **Feedback & Logging (AI Audit):** Các tương tác và phản hồi Đúng/Sai của người dùng được lưu trữ an toàn tại `audit_log.csv` để kỹ sư phát triển cải thiện hệ thống.
