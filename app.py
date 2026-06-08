@@ -55,11 +55,9 @@ def _handle_feedback(feedback: str):
         1 - final_label if final_label in (0, 1) else 0
     )
 
-    raw_text = st.session_state.raw_input
-
     with st.spinner("🔄 Đang cập nhật hệ thống học máy..."):
         ml_model.save_feedback_sample(
-            raw_text,
+            st.session_state.masked_text,
             correct_label
         )
 
@@ -182,16 +180,15 @@ with st.sidebar:
     st.markdown("### 📊 Sức khỏe Mô hình Máy học (ML)")
     
     # 1. Tính tổng số mẫu thực tế trong database CSV
+    metrics = ml_model.get_metrics()
     total_samples = 0
     if os.path.exists(ml_model.DATA_FILE):
         try:
-            df_status = pd.read_csv(ml_model.DATA_FILE, encoding="utf-8-sig")
-            total_samples = len(df_status)
+            total_samples = metrics["dataset_size"]
         except:
             pass
 
     # 2. Lấy giá trị chính xác và mới nhất từ file metric ra hiển thị
-    metrics = ml_model.get_metrics()
 
     current_accuracy = metrics["accuracy"]
     current_precision = metrics["precision"]
@@ -220,15 +217,6 @@ with st.sidebar:
     )
     
     st.progress(int(current_accuracy * 100))
-    
-    # 4. Cảnh báo trạng thái điều hướng hệ thống
-    if current_accuracy < 0.85:
-        st.warning(
-            f"⚠️ **Hiện trạng:** Độ chính xác thuật toán toán học chưa đạt ngưỡng an toàn (>=85%). "
-            f"Hệ thống sẽ chuyển giao dữ liệu sang **LLM phân tích** để bảo vệ Cô/Chú."
-        )
-    else:
-        st.success("✅ **Hiện trạng:** Mô hình toán học đã đủ mạnh để tự động phân tách phần lớn tin tức mà không cần gọi LLM.")
 
     st.markdown(f"Tổng số mẫu trong DB: `{total_samples}`")
     st.markdown("---")
@@ -237,10 +225,9 @@ with st.sidebar:
 
     if os.path.exists(ml_model.DATA_FILE):
         try:
-            df = pd.read_csv(ml_model.DATA_FILE, encoding="utf-8-sig")
-            st.metric("Tổng mẫu huấn luyện", len(df))
-            st.metric("Mẫu tin giả (0)", int((df["nhan"] == 0).sum()))
-            st.metric("Mẫu tin thật (1)", int((df["nhan"] == 1).sum()))
+            st.metric("Tổng mẫu huấn luyện", metrics["dataset_size"])
+            st.metric("Mẫu tin giả (0)", metrics["fake_news"])
+            st.metric("Mẫu tin thật (1)", metrics["real_news"])
         except Exception:
             st.write("Chưa có dữ liệu.")
     else:
@@ -263,6 +250,7 @@ with st.sidebar:
             ml_model.retrain()
             ml_model.reload_model()
         st.success("✅ Xong!")
+        st.rerun()
 
     st.divider()
     st.subheader("🌐 Thu thập tin tức")

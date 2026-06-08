@@ -18,7 +18,8 @@ from sklearn.pipeline import Pipeline
 from sklearn.metrics import (
     precision_score,
     recall_score,
-    f1_score
+    f1_score,
+    confusion_matrix
 )
 
 # ── Đường dẫn file ──────────────────────────────────────────────────────────
@@ -194,20 +195,29 @@ def retrain():
     precision = precision_score(
         y_test,
         y_pred,
+        pos_label=0,
         zero_division=0
     )
 
     recall = recall_score(
         y_test,
         y_pred,
+        pos_label=0,
         zero_division=0
     )
 
     f1 = f1_score(
         y_test,
         y_pred,
+        pos_label=0,
         zero_division=0
     )
+
+    tn, fp, fn, tp = confusion_matrix(
+        y_test,
+        y_pred,
+        labels=[0, 1]
+    ).ravel()
 
     with open(
         "model_metrics.json",
@@ -221,7 +231,13 @@ def retrain():
                 "recall": recall,
                 "f1": f1,
                 "dataset_size": len(df),
-                "test_size": len(X_test)
+                "test_size": len(X_test),
+                "fake_news": int((df["nhan"] == 0).sum()),
+                "real_news": int((df["nhan"] == 1).sum()),
+                "fake_detected": int(tn),
+                "fake_missed": int(fp),
+                "real_detected": int(fn),
+                "real_misclassified": int(tp)
             },
             f,
             ensure_ascii=False,

@@ -1,168 +1,4 @@
 ﻿timestamp,masked_text,source,ml_label,ml_confidence,final_label,ai_response_snippet,feedback
-2026-06-05 09:34:26,"SĐT [SĐT_ĐÃ_ẨN] đã trúng 1 chiếc iPhone 17, vui lòng nhấn vào link bên dưới để nhập thông tin nhận thưởng
-http://localhost:8501/",llm,0,0.510,0,"⚠️ **Dạ, cháu phân tích được kết quả nhưng định dạng có chút trục trặc.**
-
-**Phân tích:**
-
-- Tin nhắ",
-2026-06-05 09:34:55,"SĐT [SĐT_ĐÃ_ẨN] đã trúng 1 chiếc iPhone 17, vui lòng nhấn vào link bên dưới để nhập thông tin nhận thưởng
-http://localhost:8501/",llm,0,0.510,0,"⚠️ **Dạ, cháu phân tích được kết quả nhưng định dạng có chút trục trặc.**
-
-**Phân tích:**
-
-- Tin nhắ",
-2026-06-05 09:38:05,"SĐT [SĐT_ĐÃ_ẨN] đã trúng 1 chiếc iPhone 17, vui lòng nhấn vào link bên dưới để nhập thông tin nhận thưởng
-http://localhost:8501/",llm,0,0.510,0,"⚠️ **Dạ, cháu phân tích được kết quả nhưng định dạng có chút trục trặc.**
-
-**Phân tích:**
-
-- Tin nhắ",
-2026-06-05 09:38:11,"SĐT [SĐT_ĐÃ_ẨN] đã trúng 1 chiếc iPhone 17, vui lòng nhấn vào link bên dưới để nhập thông tin nhận thưởng
-http://localhost:8501/",llm,0,0.510,0,"⚠️ **Dạ, cháu phân tích được kết quả nhưng định dạng có chút trục trặc.**
-
-**Phân tích:**
-
-- Tin nhắ",Good
-2026-06-05 09:38:44,"SĐT [SĐT_ĐÃ_ẨN] đã trúng 1 chiếc iPhone 17, vui lòng nhấn vào link bên dưới để nhập thông tin nhận thưởng
-http://localhost:8501/",llm,0,0.594,0,"⚠️ **Dạ, cháu phân tích được kết quả nhưng định dạng có chút trục trặc.**
-
-**Phân tích:**
-
-- Tin nhắ",
-2026-06-05 09:39:45,CHÚC MỪNG: Chủ thuê bao 0912xxxxxx đã may mắn trúng giải Nhất chương trình tri ân khách hàng: 1 chiếc xe máy Honda SH 125i. Vui lòng truy cập ngay website http://tri-an-vng.com để làm thủ tục nhận xe ,llm,0,0.540,0,"⚠️ **Dạ, cháu phân tích được kết quả nhưng định dạng có chút trục trặc.**
-
-**Phân tích:**
-
-- Tin này",
-2026-06-05 09:51:20,CHÚC MỪNG: Chủ thuê bao 0912xxxxxx đã may mắn trúng giải Nhất chương trình tri ân khách hàng: 1 chiếc xe máy Honda SH 125i. Vui lòng truy cập ngay website http://tri-an-vng.com để làm thủ tục nhận xe ,llm,0,0.540,0,"⚠️ **Dạ, cháu phân tích được kết quả nhưng định dạng có chút trục trặc.**
-
-**Phân tích:**
-
-- Tin này",Good
-2026-06-05 09:53:46,Bộ Y tế khuyến cáo người dân chủ động tiêm vắc xin phòng cúm mùa trước khi bước vào giai đoạn đông xuân nhằm hạn chế nguy cơ chuyển biến nặng.,llm,1,0.570,0,"⚠️ **Dạ, cháu phân tích được kết quả nhưng định dạng có chút trục trặc.**
-
-**Phân tích:**
-
-- Tin này",
-2026-06-05 10:04:27,Báo sức khỏe đời sống: Các bác sĩ khuyến cáo người cao tuổi không nên tự ý mua các loại thuốc đông y không rõ nguồn gốc rao bán trên mạng xã hội để tránh tiền mất tật mang.,llm,1,0.506,0,"🚨 **Lỗi kết nối mô hình AI (Ollama)**
-
-`HTTPConnectionPool(host='localhost', port=11434): Read timed",
-2026-06-05 10:19:51,Cục An toàn thực phẩm cảnh báo người tiêu dùng cẩn trọng với các thông tin quảng cáo thực phẩm chức năng có dấu hiệu thổi phồng công dụng như thần dược chữa bách bệnh.,llm,1,0.787,0,"⚠️ **Dạ, cháu đã phân tích xong nhưng định dạng kết quả có chút trục trặc.**
-
-**Phân tích tin:**
-
-* ",
-2026-06-05 10:22:41,Cục An toàn thực phẩm cảnh báo người tiêu dùng cẩn trọng với các thông tin quảng cáo thực phẩm chức năng có dấu hiệu thổi phồng công dụng như thần dược chữa bách bệnh.,llm,1,0.787,1,"⚠️ **Dạ, cháu đã phân tích xong nhưng định dạng kết quả có chút trục trặc.**
-
-**Phân tích tin:**
-
-* ",Bad
-2026-06-05 10:33:22,"Cục An ninh mạng và Phòng chống tội phạm công nghệ cao đưa ra hướng dẫn 3 không dành cho người dân: Không bấm vào link lạ, không cung cấp mã OTP, và không chuyển tiền cho người lạ.",llm,1,0.629,0,"⚠️ **Dạ, cháu đã phân tích xong nhưng định dạng kết quả có chút trục trặc.**
-
-**Phân tích tin:**
-
-- ",
-2026-06-05 10:33:50,"Cục An ninh mạng và Phòng chống tội phạm công nghệ cao đưa ra hướng dẫn 3 không dành cho người dân: Không bấm vào link lạ, không cung cấp mã OTP, và không chuyển tiền cho người lạ.",llm,1,0.629,1,"⚠️ **Dạ, cháu đã phân tích xong nhưng định dạng kết quả có chút trục trặc.**
-
-**Phân tích tin:**
-
-- ",Bad
-2026-06-05 10:34:20,Công an TP.HCM thông báo vừa triệt phá và bắt giữ một nhóm đối tượng chuyên gọi điện giả danh nhân viên ngân hàng để lừa đảo chiếm đoạt tài sản qua mạng.,llm,1,0.588,0,"⚠️ **Dạ, cháu đã phân tích xong nhưng định dạng kết quả có chút trục trặc.**
-
-**Phân tích:**
-
-- Tin ",
-2026-06-05 10:34:31,Công an TP.HCM thông báo vừa triệt phá và bắt giữ một nhóm đối tượng chuyên gọi điện giả danh nhân viên ngân hàng để lừa đảo chiếm đoạt tài sản qua mạng.,llm,1,0.588,0,"⚠️ **Dạ, cháu đã phân tích xong nhưng định dạng kết quả có chút trục trặc.**
-
-**Phân tích:**
-
-- Tin ",Good
-2026-06-05 10:51:43,"Trung tâm Dự báo Khí tượng Thủy văn Quốc gia cho biết cuối tuần này khu vực Bắc Bộ đón một đợt không khí lạnh tăng cường, nhiệt độ giảm sâu, người già và trẻ nhỏ cần giữ ấm.",llm,1,0.581,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
-**Lý do:** Tin dự báo thời tiết nhắc nhở người già ",
-2026-06-05 10:53:57,"Trung tâm Dự báo Khí tượng Thủy văn Quốc gia cho biết cuối tuần này khu vực Bắc Bộ đón một đợt không khí lạnh tăng cường, nhiệt độ giảm sâu, người già và trẻ nhỏ cần giữ ấm.",llm,1,0.581,1,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
-**Lý do:** Tin dự báo thời tiết nhắc nhở người già ",Bad
-2026-06-05 10:54:34,"Tổng công ty Điện lực thông báo lịch tạm ngừng cấp điện để bảo trì, sửa chữa lưới điện định kỳ tại khu vực quận một vào ngày chủ nhật tới",llm,1,0.517,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
-**Lý do:** Tin tức chính thức từ Tổng công ty Điện ",
-2026-06-05 10:57:50,"Tổng công ty Điện lực thông báo lịch tạm ngừng cấp điện để bảo trì, sửa chữa lưới điện định kỳ tại khu vực quận một vào ngày chủ nhật tới",llm,1,0.517,1,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
-**Lý do:** Tin tức chính thức từ Tổng công ty Điện ",Bad
-2026-06-05 10:58:13,"Báo điện tử Chính phủ: Từ ngày đầu tháng sau, chính sách điều chỉnh tăng lương hưu và trợ cấp bảo hiểm xã hội đối với các đối tượng bảo trợ sẽ chính thức có hiệu lực.",llm,1,0.542,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
-**Lý do:** Tin tức chính thức của chính phủ về tăng",
-2026-06-05 11:00:15,"Báo điện tử Chính phủ: Từ ngày đầu tháng sau, chính sách điều chỉnh tăng lương hưu và trợ cấp bảo hiểm xã hội đối với các đối tượng bảo trợ sẽ chính thức có hiệu lực.",llm,1,0.542,1,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
-**Lý do:** Tin tức chính thức của chính phủ về tăng",Bad
-2026-06-05 11:16:35,"Báo điện tử Chính phủ: Từ ngày đầu tháng sau, chính sách điều chỉnh tăng lương hưu và trợ cấp bảo hiểm xã hội đối với các đối tượng bảo trợ sẽ chính thức có hiệu lực.",llm,1,0.609,0,"⚠️ **Dạ, cháu đã phân tích xong nhưng định dạng kết quả có chút trục trặc...**
-
-Lỗi chi tiết: `HTTPC",
-2026-06-05 11:18:30,"Báo điện tử Chính phủ: Từ ngày đầu tháng sau, chính sách điều chỉnh tăng lương hưu và trợ cấp bảo hiểm xã hội đối với các đối tượng bảo trợ sẽ chính thức có hiệu lực.",llm,1,0.609,1,"✅ **Tin này có vẻ đáng tin cậy**
-
-**Lý do:** Nội dung tin tức chính thức được công bố bởi cơ quan nh",
-2026-06-05 11:20:26,Cục An toàn thực phẩm cảnh báo người tiêu dùng cẩn trọng với các thông tin quảng cáo thực phẩm chức năng có dấu hiệu thổi phồng công dụng như thần dược chữa bách bệnh,llm,1,0.606,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
-**Lý do:** Tin cáo nhắc nhở người tiêu dùng cảnh gi",
-2026-06-05 11:21:18,Báo sức khỏe đời sống: Các bác sĩ khuyến cáo người cao tuổi không nên tự ý mua các loại thuốc đông y không rõ nguồn gốc rao bán trên mạng xã hội để tránh tiền mất tật mang,llm,1,0.559,1,"✅ **Tin này có vẻ đáng tin cậy**
-
-**Lý do:** Nội dung tin nhắn phù hợp với kiến thức y tế, khuyến cá",
-2026-06-05 11:21:20,Báo sức khỏe đời sống: Các bác sĩ khuyến cáo người cao tuổi không nên tự ý mua các loại thuốc đông y không rõ nguồn gốc rao bán trên mạng xã hội để tránh tiền mất tật mang,llm,1,0.559,1,"✅ **Tin này có vẻ đáng tin cậy**
-
-**Lý do:** Nội dung tin nhắn phù hợp với kiến thức y tế, khuyến cá",Good
-2026-06-05 11:22:14,"Quà tặng tri ân Ngày của Mẹ! Nhận ngay một bộ nồi chiên không dầu cao cấp miễn phí từ Sunhouse. Số lượng có hạn chỉ còn 10 suất cuối cùng, nhanh tay đăng ký tại: http://sunhouse-free.net/",llm,1,0.508,0,"⚠️ **Dạ, cháu đã phân tích xong nhưng định dạng kết quả có chút trục trặc...**
-
-Lỗi chi tiết: `HTTPC",
-2026-06-05 11:23:08,"Quà tặng tri ân Ngày của Mẹ! Nhận ngay một bộ nồi chiên không dầu cao cấp miễn phí từ Sunhouse. Số lượng có hạn chỉ còn 10 suất cuối cùng, nhanh tay đăng ký tại: http://sunhouse-free.net/",llm,1,0.508,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
-**Lý do:** Tin nhắn khuyến mãi bộ nồi chiên miễn ph",
-2026-06-05 11:23:29,"Quà tặng tri ân Ngày của Mẹ! Nhận ngay một bộ nồi chiên không dầu cao cấp miễn phí từ Sunhouse. Số lượng có hạn chỉ còn 10 suất cuối cùng, nhanh tay đăng ký tại: http://sunhouse-free.net/",llm,1,0.508,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
-**Lý do:** Tin nhắn khuyến mãi bộ nồi chiên miễn ph",Good
-2026-06-05 11:31:10,CỤC ĐƯỜNG BỘ thông báo: Phương tiện của ông/bà có biên bản phạt nguội vi phạm giao thông quá hạn thanh toán. Nếu không nộp phạt trước 24h sẽ bị phong tỏa tài khoản ngân hàng. Tra cứu biên bản tại: htt,llm,0,0.570,0,"⚠️ **Dạ, cháu đã phân tích xong nhưng định dạng kết quả có chút trục trặc...**
-
-Lỗi chi tiết: `HTTPC",
-2026-06-05 11:32:02,CỤC ĐƯỜNG BỘ thông báo: Phương tiện của ông/bà có biên bản phạt nguội vi phạm giao thông quá hạn thanh toán. Nếu không nộp phạt trước 24h sẽ bị phong tỏa tài khoản ngân hàng. Tra cứu biên bản tại: htt,llm,0,0.570,1,"✅ **Tin này có vẻ đáng tin cậy**
-
-**Lý do:** Nội dung tin nhắn cung cấp thông tin chính xác về việc ",
-2026-06-05 11:32:18,CỤC ĐƯỜNG BỘ thông báo: Phương tiện của ông/bà có biên bản phạt nguội vi phạm giao thông quá hạn thanh toán. Nếu không nộp phạt trước 24h sẽ bị phong tỏa tài khoản ngân hàng. Tra cứu biên bản tại: htt,llm,0,0.570,0,"✅ **Tin này có vẻ đáng tin cậy**
-
-**Lý do:** Nội dung tin nhắn cung cấp thông tin chính xác về việc ",Bad
-2026-06-05 11:33:09,TÒA ÁN NHÂN DÂN TP.HCM thông báo: Lệnh bắt giam khẩn cấp đối với số CMND/CCCD của bạn vì liên quan đến đường dây rửa tiền xuyên quốc gia. Yêu cầu bấm vào link http://xacminh-bocongan.com để khai báo s,llm,1,0.501,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
-**Lý do:** Tin nhắn gợi ý hành động cụ thể (bấm vào",
-2026-06-05 11:33:41,TÒA ÁN NHÂN DÂN TP.HCM thông báo: Lệnh bắt giam khẩn cấp đối với số CMND/CCCD của bạn vì liên quan đến đường dây rửa tiền xuyên quốc gia. Yêu cầu bấm vào link http://xacminh-bocongan.com để khai báo s,llm,1,0.501,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
-**Lý do:** Tin nhắn gợi ý hành động cụ thể (bấm vào",Good
-2026-06-05 11:34:42,"Mbank CẢNH BÁO: Tài khoản của quý khách đang được đăng nhập trên một thiết bị lạ tại Hà Nội. Nếu không phải bạn thao tác, vui lòng nhấn vào http://mbbank-security-otp.com để HỦY liên kết và bảo vệ số ",llm,0,0.537,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
-**Lý do:** Tin nhắn gợi ý hành động cấp thiết (OTP)",
-2026-06-05 13:11:54,"CẤP BÁCH: Tài khoản ngân hàng của bạn vừa bị trừ 25.000.000 VND cho hóa đơn thanh toán mua sắm trực tuyến. Nếu giao dịch này có gian lận, hãy click ngay http://nganhang-khieunai.com để hủy giao dịch v",llm,0,0.540,0,"⚠️ **Dạ, cháu đã phân tích xong nhưng định dạng kết quả có chút trục trặc...**
-
-Lỗi chi tiết: `HTTPC",
-2026-06-05 13:13:31,"CẤP BÁCH: Tài khoản ngân hàng của bạn vừa bị trừ 25.000.000 VND cho hóa đơn thanh toán mua sắm trực tuyến. Nếu giao dịch này có gian lận, hãy click ngay http://nganhang-khieunai.com để hủy giao dịch v",llm,0,0.540,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
-**Lý do:** Tin nhắn gợi ý hành động nhầm nhại, gợi ",
-2026-06-05 13:14:12,"CẤP BÁCH: Tài khoản ngân hàng của bạn vừa bị trừ 25.000.000 VND cho hóa đơn thanh toán mua sắm trực tuyến. Nếu giao dịch này có gian lận, hãy click ngay http://nganhang-khieunai.com để hủy giao dịch v",llm,0,0.540,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
-**Lý do:** Tin nhắn gợi ý hành động nhầm nhại, gợi ",Good
-2026-06-05 13:15:19,Cơ quan Bảo hiểm Xã hội Việt Nam: Phát hiện đồng chí có sai lệch thông tin đóng trợ cấp hưu trí. Vui lòng tải ứng dụng VSSID và cập nhật bản mới nhất tại link http://baohiemxahoi-vssid.apk để không bị,llm,1,0.529,1,"✅ **Tin này có vẻ đáng tin cậy**
-
-**Lý do:** Tin nhắn cung cấp thông tin chính xác từ cơ quan Bảo hi",
-2026-06-05 13:15:41,Cơ quan Bảo hiểm Xã hội Việt Nam: Phát hiện đồng chí có sai lệch thông tin đóng trợ cấp hưu trí. Vui lòng tải ứng dụng VSSID và cập nhật bản mới nhất tại link http://baohiemxahoi-vssid.apk để không bị,llm,1,0.529,0,"✅ **Tin này có vẻ đáng tin cậy**
-
-**Lý do:** Tin nhắn cung cấp thông tin chính xác từ cơ quan Bảo hi",Bad
-2026-06-05 13:16:29,Thông báo từ Điện máy XANH: Cô/Chú là một trong số ít khách hàng may mắn nhận được phiếu mua hàng trị giá 5.000.000đ hoàn toàn miễn phí. Đăng ký xác nhận địa chỉ giao quà tại: http://dienmayxanh-quata,llm,0,0.502,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
-**Lý do:** Tin nhắn khuyến mãi mua hàng chứ không c",
-2026-06-05 13:16:47,Thông báo từ Điện máy XANH: Cô/Chú là một trong số ít khách hàng may mắn nhận được phiếu mua hàng trị giá 5.000.000đ hoàn toàn miễn phí. Đăng ký xác nhận địa chỉ giao quà tại: http://dienmayxanh-quata,llm,0,0.502,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
-**Lý do:** Tin nhắn khuyến mãi mua hàng chứ không c",Good
-2026-06-05 13:17:35,CỤC ĐƯỜNG BỘ thông báo: Phương tiện của ông/bà có biên bản phạt nguội vi phạm giao thông quá hạn thanh toán. Nếu không nộp phạt trước 24h sẽ bị phong tỏa tài khoản ngân hàng. Tra cứu biên bản tại: htt,llm,0,0.618,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
-**Lý do:** Tin nhắn nhắc nhở người dùng nộp phạt vi",
-2026-06-05 13:17:46,CỤC ĐƯỜNG BỘ thông báo: Phương tiện của ông/bà có biên bản phạt nguội vi phạm giao thông quá hạn thanh toán. Nếu không nộp phạt trước 24h sẽ bị phong tỏa tài khoản ngân hàng. Tra cứu biên bản tại: htt,llm,0,0.618,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
-
 **Lý do:** Tin nhắn nhắc nhở người dùng nộp phạt vi",Good
 2026-06-05 14:53:49,CỤC ĐƯỜNG BỘ thông báo: Phương tiện của ông/bà có biên bản phạt nguội vi phạm giao thông quá hạn thanh toán. Nếu không nộp phạt trước 24h sẽ bị phong tỏa tài khoản ngân hàng. Tra cứu biên bản tại: htt,hybrid,0,0.637,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
 
@@ -241,3 +77,153 @@ Lỗi chi tiết: `HTTPC",
 2026-06-05 23:42:35,Quý khách đang thực hiện giao dịch chuyển tiền. Mã OTP: 281944. Hiệu lực trong 60 giây,hybrid,1,0.605,1,"✅ **Tin này có vẻ đáng tin cậy**
 
 **Lý do:** Hệ thống Machine Learning xác định tin nhắn là 'Giao dị",Good
+2026-06-08 09:51:41,CẤP BÁCH: Tài khoản ngân hàng của ông Nguyễn Văn An đang bị tạm khóa. Vui lòng truy cập https://vietcom-secure247.com và nhập mã OTP để mở khóa.,hybrid,0,0.563,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định tin n",Good
+2026-06-08 09:52:53,Chúc mừng cô Trần Thị Mai đã trúng thưởng 1 xe Honda SH. Liên hệ ngay qua https://quatang-vip2026.net để nhận giải.,hybrid,0,0.592,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định tin n",Good
+2026-06-08 09:53:54,Bộ Y tế khuyến cáo người dân tiêm vaccine cúm mùa và theo dõi sức khỏe định kỳ tại các cơ sở y tế địa phương.,hybrid,1,0.766,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định tin này là THAT với ",Good
+2026-06-08 10:00:15,Khẩn cấp: Tài khoản BIDV số [STK_ĐÃ_ẨN] của chú Lê Minh Quang có dấu hiệu giao dịch bất thường. Xác minh tại https://bidv-baomat24h.org.,hybrid,0,0.507,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định tin g",Good
+2026-06-08 10:11:08,Ngân hàng Agribank thông báo bảo trì hệ thống từ 23h00 đến 02h00 ngày mai để nâng cấp dịch vụ.,hybrid,1,0.576,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định tin giả dựa trên cấu",Good
+2026-06-08 10:12:47,Ông Phạm Quốc Hùng được nhận khoản hỗ trợ 25 triệu đồng từ quỹ an sinh xã hội. Truy cập https://hotro-congdan2026.com để đăng ký.,hybrid,0,0.567,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định tin g",Good
+2026-06-08 10:13:18,Cục An toàn thông tin cảnh báo người dân không cung cấp mã OTP cho người lạ qua điện thoại.,hybrid,1,0.599,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định tin nhắn là THREAT d",Good
+2026-06-08 10:14:09,Chúc mừng tài khoản [SĐT_ĐÃ_ẨN] được chọn nhận iPhone miễn phí. Xác nhận tại https://iphone-qua-tang.vip.,hybrid,0,0.709,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định tin n",Good
+2026-06-08 10:14:45,Bệnh viện Chợ Rẫy khuyến nghị người dân khám sức khỏe định kỳ để phát hiện bệnh sớm.,hybrid,1,0.674,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định văn bản đề cập đến k",Good
+2026-06-08 10:21:20,Tài khoản MB Bank của bà Nguyễn Thị Hoa sắp bị khóa. Đăng nhập ngay tại https://mb-secure-login.net.,hybrid,0,0.600,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định tin n",Good
+2026-06-08 10:25:07,Công an TP.HCM cảnh báo thủ đoạn giả danh cán bộ điều tra yêu cầu chuyển tiền.,hybrid,1,0.725,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định văn bản chứa thuật n",Good
+2026-06-08 10:25:37,Anh Võ Thanh Bình được chọn tham gia chương trình đầu tư lợi nhuận 30% mỗi ngày tại https://gold-profit365.com.,hybrid,0,0.554,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định văn b",Good
+2026-06-08 10:26:57,Bộ Giáo dục công bố lịch thi tốt nghiệp THPT trên cổng thông tin chính thức.,hybrid,1,0.629,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning dựa vào ngữ nghĩa và cấu trúc",Good
+2026-06-08 10:28:03,Chị Lê Thị Hạnh có bưu kiện quốc tế chưa nhận. Thanh toán phí hải quan tại https://ems-fast-delivery.co.,hybrid,1,0.506,0,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định tin nhắn là đề cập đ",Bad
+2026-06-08 10:28:34,Sở Y tế khuyến nghị người dân đeo khẩu trang tại nơi đông người khi có dịch bệnh.,hybrid,1,0.740,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định tin này là THAT (Tin",Good
+2026-06-08 10:29:19,Tài khoản ví điện tử của ông Trần Quốc Khánh sẽ bị vô hiệu hóa trong 12 giờ tới. Xác thực tại https://momo-authentication.net.,hybrid,1,0.533,0,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định tin nhắn là THREAT d",Bad
+2026-06-08 10:30:03,Cục Đường bộ Việt Nam thông báo điều chỉnh phí tại một số tuyến cao tốc từ tháng tới.,hybrid,1,0.672,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định văn bản đề cập đến t",Good
+2026-06-08 10:30:51,Chúc mừng! Email [[EMAIL_ĐÃ_ẨN]](mailto:[EMAIL_ĐÃ_ẨN]) đã nhận học bổng quốc tế trị giá 200 triệu đồng.,hybrid,1,0.577,0,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định tin nhắn là thông bá",Bad
+2026-06-08 10:31:30,Bộ Công an khuyến cáo người dân kiểm tra nguồn tin trước khi chia sẻ trên mạng xã hội.,hybrid,1,0.744,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định văn bản thuộc loại T",Good
+2026-06-08 10:33:02,Tài khoản số [STK_ĐÃ_ẨN] của bà Phạm Thu Trang được hoàn tiền 8.500.000 đồng. Xác nhận tại https://refund-bankvn.org.,hybrid,0,0.672,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định văn b",Good
+2026-06-08 10:36:07,Bệnh viện Đại học Y Dược khuyến cáo người dân kiểm soát huyết áp thường xuyên.,hybrid,1,0.762,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định văn bản đề cập đến k",Good
+2026-06-08 10:38:48,Khẩn cấp: CCCD của ông Đặng Minh Tuấn liên quan đến vụ án rửa tiền. Khai báo tại https://dichvu-congan24h.net.,hybrid,1,0.596,0,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định tin nhắn là 'THAT' v",Bad
+2026-06-08 10:39:33,Bộ Nông nghiệp khuyến cáo nông dân theo dõi thời tiết để bảo vệ cây trồng.,hybrid,1,0.692,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định văn bản đề cập đến d",Good
+2026-06-08 10:41:09,Chị Nguyễn Ngọc Lan được nhận khoản viện trợ quốc tế. Điền thông tin tại https://global-aid-support.com.,hybrid,0,0.685,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định tin n",Good
+2026-06-08 10:41:48,Ngân hàng VietinBank khuyến nghị khách hàng không nhấn vào các đường link lạ trong tin nhắn SMS.,hybrid,0,0.550,1,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định tin n",Bad
+2026-06-08 10:43:21,Tài khoản Facebook của anh Hoàng Văn Đức vi phạm tiêu chuẩn cộng đồng. Kháng nghị tại https://facebook-support-vn.org.,hybrid,1,0.591,0,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định tin giả dựa vào tiêu",Bad
+2026-06-08 10:46:23,Sở Giáo dục thông báo thời gian tuyển sinh đầu cấp năm học mới.,hybrid,1,0.709,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning dựa vào ngữ nghĩa và cấu trúc",Good
+2026-06-08 10:47:20,Chúc mừng số điện thoại [SĐT_ĐÃ_ẨN] đã trúng giải đặc biệt 500 triệu đồng. Nhận thưởng tại https://mega-lucky-prize.net.,hybrid,0,0.710,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định tin n",Good
+2026-06-08 10:48:51,Bộ Y tế cảnh báo các quảng cáo thực phẩm chức năng thổi phồng công dụng chữa bệnh.,hybrid,1,0.756,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định văn bản đề cập đến q",Good
+2026-06-08 10:49:54,Tài khoản Techcombank của cô Lê Mỹ Duyên phát hiện giao dịch đáng ngờ. Xác thực tại https://techcom-secure.info.,hybrid,0,0.550,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định tin g",Good
+2026-06-08 10:50:38,Công an tỉnh Bình Dương cảnh báo thủ đoạn giả danh nhân viên giao hàng để lừa đảo.,hybrid,1,0.651,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định văn bản chứa thông t",Good
+2026-06-08 10:51:23,Ông Nguyễn Thanh Sơn được mời tham gia quỹ đầu tư AI với lợi nhuận cam kết 50%/tuần tại https://future-ai-invest.com.,hybrid,0,0.569,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning dựa vào ngữ ng",Good
+2026-06-08 10:53:05,Trung tâm Kiểm soát bệnh tật khuyến nghị người dân tiêm vaccine đầy đủ theo lịch.,hybrid,1,0.778,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định tin nhắn là THAT (Ti",Good
+2026-06-08 10:53:48,Chị Trần Thị Bích nhận được thư thừa kế trị giá 750.000 USD từ nước ngoài. Xem chi tiết tại https://inheritance-global.org.,hybrid,1,0.579,0,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định tin nhắn là THAT (Ti",Bad
+2026-06-08 10:54:38,Bộ Tài chính công bố các chính sách thuế mới áp dụng từ năm tới.,hybrid,1,0.715,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định văn bản đề cập đến c",Good
+2026-06-08 10:56:10,Tài khoản Zalo của anh Phạm Đức Long sẽ bị khóa nếu không xác minh tại https://zalo-security-vn.net.,hybrid,0,0.731,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định tin n",Good
+2026-06-08 10:56:54,Ngân hàng BIDV khuyến cáo khách hàng đổi mật khẩu định kỳ để tăng cường bảo mật.,hybrid,1,0.594,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định văn bản đề cập đến k",Good
+2026-06-08 10:57:51,Chúc mừng bà Nguyễn Thị Vân nhận được khoản trợ cấp đặc biệt từ quỹ quốc tế. Đăng ký tại https://support-citizen2026.com.,hybrid,0,0.792,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định tin n",Good
+2026-06-08 10:58:37,Bệnh viện Nhi Đồng khuyến nghị phụ huynh đưa trẻ đi khám khi có dấu hiệu sốt kéo dài.,hybrid,1,0.737,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định văn bản đề cập đến v",Good
+2026-06-08 11:00:46,Khẩn cấp: Hệ thống phát hiện tài khoản số [STK_ĐÃ_ẨN] của ông Trịnh Văn Hải liên quan giao dịch bất hợp pháp.,hybrid,1,0.536,0,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định tin nhắn là THAT với",Bad
+2026-06-08 11:01:24,Bộ Y tế công bố chiến dịch truyền thông nâng cao nhận thức phòng chống sốt xuất huyết.,hybrid,1,0.701,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định văn bản đề cập đến c",Good
+2026-06-08 11:02:02,Anh Lê Minh Tâm được hoàn thuế 12.400.000 đồng. Xác minh tại https://tax-refund-online.net.,hybrid,0,0.628,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning dựa vào ngữ ng",Good
+2026-06-08 11:02:37,Công an khuyến cáo người dân không chuyển tiền cho người tự xưng là cán bộ nhà nước qua điện thoại.,hybrid,1,0.764,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định văn bản đề cập đến t",Good
+2026-06-08 11:03:12,Chị Nguyễn Kim Ngân nhận được quà tặng từ chương trình tri ân khách hàng. Nhận tại https://gift-event-vip.com.,hybrid,0,0.727,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định tin n",Good
+2026-06-08 11:03:56,Sở Giao thông Vận tải thông báo phân luồng giao thông trong dịp lễ.,hybrid,1,0.597,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định văn bản đề cập đến s",Good
+2026-06-08 11:04:30,Tài khoản ngân hàng của bà Võ Thị Hương sẽ bị đóng vĩnh viễn nếu không xác nhận thông tin tại https://bank-update-now.org.,hybrid,0,0.782,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định tin n",Good
+2026-06-08 11:05:11,Bộ Y tế khuyến nghị người dân chỉ mua thuốc tại các cơ sở được cấp phép.,hybrid,1,0.682,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning xác định văn bản đề cập đến k",Good
+2026-06-08 11:05:44,Chúc mừng ông Trần Văn Phúc đã trúng thưởng căn hộ cao cấp. Hoàn tất hồ sơ tại https://luxury-home-reward.net.,hybrid,0,0.556,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định tin n",Good
+2026-06-08 11:06:22,Ngân hàng MB khuyến cáo khách hàng không chia sẻ thông tin đăng nhập cho bất kỳ ai.,hybrid,1,0.523,1,"✅ **Tin này có vẻ đáng tin cậy**
+
+**Lý do:** Hệ thống Machine Learning đã xác định văn bản đề cập đế",Good
+2026-06-08 11:06:53,Anh Nguyễn Quốc Bảo được chọn tham gia chương trình đầu tư tiền số lợi nhuận 1000% mỗi tháng tại https://crypto-rich-fast.com.,hybrid,0,0.678,0,"🚨 **CẢNH BÁO: Có thể là LỪA ĐẢO hoặc TIN GIẢ!**
+
+**Lý do:** Hệ thống Machine Learning xác định văn b",Good

@@ -39,8 +39,30 @@ do_nguy_hiem từ 1 tới 5.
 
 
 def mask_personal_info(text: str) -> str:
-    text = re.sub(r'0\d{9,10}', '[SĐT_ĐÃ_ẨN]', text)
-    text = re.sub(r'\b\d{8,15}\b', '[STK_ĐÃ_ẨN]', text)
+    # Email
+    text = re.sub(
+        r'[a-zA-Z0-9._%+\-]+@[a-zA-Z0-9.\-]+\.[a-zA-Z]{2,}',
+        '[EMAIL_ĐÃ_ẨN]',
+        text
+    )
+    # CCCD (12 số) / CMND (9 số)
+    text = re.sub(
+        r'(?<!\d)(?:0\d{2}[0-2]\d{8}|\d{9})(?!\d)',
+        '[CCCD_ĐÃ_ẨN]',
+        text
+    )
+    # SĐT Việt Nam
+    text = re.sub(
+        r'(?<!\d)(?:\+84|84|0)(?:3[2-9]|5[25689]|7[06-9]|8[1-9]|9[0-9])\d{7}(?!\d)',
+        '[SĐT_ĐÃ_ẨN]',
+        text
+    )
+    # STK ngân hàng
+    text = re.sub(
+        r'(?i)(?:tài khoản|số tk|stk|chuyển khoản|banking|ngân hàng|vietcombank|vcb|techcombank|bidv|agribank|mbbank|vpbank|acb|sacombank).{0,50}?(?<!\d)(\d{10,16})(?!\d)',
+        lambda m: m.group(0).replace(m.group(1), '[STK_ĐÃ_ẨN]'),
+        text
+    )
     return text
 
 
